@@ -1,5 +1,5 @@
 // Write your solution here!
-var cats = ['Milo', 'Otis', 'Garfield'];
+let cats = ['Milo', 'Otis', 'Garfield'];
 function destructivelyAppendCat(appendCat){
     cats.push(appendCat);
     return cats;
